@@ -83,6 +83,10 @@ html {
     text-decoration: none;
 }
 
+.nav-logo:hover {
+    text-decoration: none;
+}
+
 .nav-logo img {
     height: 55px;
     width: auto;
@@ -101,6 +105,11 @@ html {
     display: flex;
     flex-direction: column;
     line-height: 1.2;
+}
+
+.nav-brand:hover {
+    text-decoration: none;
+    color: var(--primary-color);
 }
 
 .nav-brand-sub {
